@@ -1,3 +1,5 @@
 ﻿using AdventOfCode24;
 
-Day1.Solve();
+// Day1.Solve();
+// Day2.Solve();
+Day3.Solve();
